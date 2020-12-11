@@ -1,3 +1,4 @@
-### Hi People!
+Hi there !
 
-- I do research for Cloud Computing.
+- I do research for Cloud Computing
+- I help organizations to build their infrastructures
