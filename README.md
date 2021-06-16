@@ -5,6 +5,7 @@ jazz is democracy and a person is a person through other people and we are knitt
 # License
 
 Service License for Masscollabs Services and Masif Computing Services
+
 Copyright (C) 2020, 2021, Masscollabs Services and Masif Computing Services
 
 This program is free software: you can redistribute it and/or modify
