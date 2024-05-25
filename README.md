@@ -1,12 +1,24 @@
 # hwpplayer1
 
+hwpplayer1 GitHub Website source code
+
 jazz is democracy and a person is a person through other people and we are knitting a free society 
 
 # License
 
-Service License for Masscollabs Services and Masif Computing Services
+hwpplayer1 GitHub Website source code
 
-Copyright (C) 2020, 2021, Masscollabs Services and Masif Computing Services
+Copyright (C) 2020-2024 QB Networks
+
+Copyright (C) 2020-2024 Masscollabs Services
+
+Copyright (C) 2020-2024 Procyberian and contributors
+
+Copyright (C) 2020-2024 amassivus and contributors
+
+Copyright (C) 2020-2024 Mass Collaboration Labs and contributors
+
+Copyright (C) 2020, 2021 Masif Computing Services
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published

@@ -1,52 +1,55 @@
-# Prerequisites
-*.d
+# Created by https://www.toptal.com/developers/gitignore/api/emacs
+# Edit at https://www.toptal.com/developers/gitignore?templates=emacs
 
-# Object files
-*.o
-*.ko
-*.obj
-*.elf
+### Emacs ###
+# -*- mode: gitignore; -*-
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
+tramp
+.\#*
 
-# Linker output
-*.ilk
-*.map
-*.exp
+# Org-mode
+.org-id-locations
+*_archive
 
-# Precompiled Headers
-*.gch
-*.pch
+# flymake-mode
+*_flymake.*
 
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
+# eshell files
+/eshell/history
+/eshell/lastdir
 
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
+# elpa packages
+/elpa/
 
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
+# reftex files
+*.rel
 
-# Debug files
-*.dSYM/
-*.su
-*.idb
-*.pdb
+# AUCTeX auto folder
+/auto/
 
-# Kernel Module Compile Results
-*.mod*
-*.cmd
-.tmp_versions/
-modules.order
-Module.symvers
-Mkfile.old
-dkms.conf
+# cask packages
+.cask/
+dist/
+
+# Flycheck
+flycheck_*.el
+
+# server auth directory
+/server/
+
+# projectiles files
+.projectile
+
+# directory configuration
+.dir-locals.el
+
+# network security
+/network-security.data
+
+
+# End of https://www.toptal.com/developers/gitignore/api/emacs
