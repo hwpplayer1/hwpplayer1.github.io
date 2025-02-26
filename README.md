@@ -2,6 +2,8 @@
 
 hwpplayer1 GitHub Website source code
 
+![Mert Gör](img/mertgor_resim.jpg)
+
 jazz is democracy and a person is a person through other people and we are knitting a free society 
 
 # License
